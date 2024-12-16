@@ -1,8 +1,0 @@
-python --version
-Python 3.9.19
-
-conda activate ai_project1
-
-python autograder.py
-
-
